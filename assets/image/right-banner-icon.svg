@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <filter id="Path_658" x="7" y="9" width="45" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#49add2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="X" x="13" y="8" width="50" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Splash_Screen_dark_2">
+      <rect width="55" height="55"/>
+    </clipPath>
+  </defs>
+  <g id="Splash_Screen_dark_2" data-name="Splash Screen (dark) – 2" clip-path="url(#clip-Splash_Screen_dark_2)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_658)">
+      <path id="Path_658-2" data-name="Path 658" d="M29.25,0,39,17.5,29.25,35H9.75L0,17.5,9.75,0Z" transform="translate(8 10)" fill="#3b4955"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#X)">
+      <text id="X-2" data-name="X" transform="translate(18 37)" fill="#fff" font-size="31" font-family="FelonastSC-ExtraLight, Felona st SC" font-weight="200"><tspan x="0" y="0">X</tspan></text>
+    </g>
+  </g>
+</svg>

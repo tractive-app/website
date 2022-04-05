@@ -1,0 +1,57 @@
+<!--form-section-->
+<section>
+    <div id="faqs" class="form-main-con dots-left-img" style="z-index: -1;">
+       <div class="container overlay-content">
+          <div class="form-title-con text-center wow slideInLeft">
+             <h2>Frequently Asked Questions</h2>
+          </div>
+          
+          <div class="informationmain-right-heading">
+             <h5>What is TRACTIVE App? </h5>
+          </div>
+          <div class="informationmain-right-content">
+             <p>It is a crypto rewards app offering an exciting opportunity to start earning TRACTIVE tokens for free. This digital asset will give you the access to a vast array of services and products which will be offered across TRACTIVE hybrid marketplace (NFT and physical products).
+             </p>
+            
+             <div class="informationmain-right-heading">
+                <h5>Is TRACTIVE application free to use?</h5>
+             </div>
+             <div class="informationmain-right-content">
+                <p>Yes, it's free and always will be. 
+                </p>
+
+                <div class="informationmain-right-heading">
+                   <h5>Where my personal data will be stored?</h5>
+                </div>
+                <div class="informationmain-right-content">
+                   <p>All your personal data is encrypted and stored on the decentralized blockchain in secure and private environment.
+                   </p>
+
+                   <div class="informationmain-right-heading">
+                      <h5>What is $WALK Token?</h5>
+                   </div>
+                   <div class="informationmain-right-content">
+                      <p>$WALK is a utility token based on Binance smart Chain (BSC) network. It is a digital asset that will acquire it's value over-time with the project growth and can be used in the TRACTIVE payment ecosystem.
+
+                      </p>
+
+                      <div class="informationmain-right-heading">
+                         <h5>How can i redeem my $WALK Tokens?
+                         </h5>
+                      </div>
+                      <div class="informationmain-right-content">
+                         <p>TRACTIVE to develop hybrid marketplace ( NFT and physical products ) where you can redeem your tokens in exchange for a vast array of services and products.
+
+                         </p>
+
+                         <div class="informationmain-right-heading">
+                            <h5>Can I buy $WALK Tokens?  </h5>
+                         </div>
+                         <div class="informationmain-right-content">
+                            <p>TRACTIVE will be launching a public pre-sale ( IDO ) on the April 2022. You can participate in the event and become one of the early investors of TRACTIVE Ecosystem (Please refer to our white-paper for more information). Once the public Pre-sale ends, $WALK Token will be listed on PancakeSwap exchange platform where you will be able to buy "$WALK" tokens and support the project growth and increase your tokens' value.
+
+                            </p>
+       </div>
+    </div>
+ </section>
+ <!--form-section-->

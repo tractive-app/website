@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="964" height="319" viewBox="0 0 964 319">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.474" y1="0.213" x2="0.86" y2="0.64" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#09a8b2"/>
+      <stop offset="1" stop-color="#f3ba2f"/>
+    </linearGradient>
+    <filter id="Already_have_an_account_" x="95" y="88" width="64" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Already_have_an_account_2" x="318" y="88" width="64" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Already_have_an_account_3" x="541" y="83" width="64" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Already_have_an_account_4" x="764" y="83" width="64" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Sign_In_dark_11">
+      <rect width="964" height="319"/>
+    </clipPath>
+  </defs>
+  <g id="Sign_In_dark_11" data-name="Sign In (dark) – 11" clip-path="url(#clip-Sign_In_dark_11)">
+    <path id="Path_665" data-name="Path 665" d="M181.38,86.694,93.484,1.44a4.781,4.781,0,0,0-6.79,0L1.44,89.335a4.781,4.781,0,0,0,0,6.79l87.9,85.255a5.618,5.618,0,0,0,3.4,1.509,4.1,4.1,0,0,0,3.4-1.509l85.255-87.9a5.618,5.618,0,0,0,1.509-3.4A3.677,3.677,0,0,0,181.38,86.694ZM92.73,171.572,11.248,92.73,90.089,11.248l81.482,78.842Z" transform="translate(35.111 25.68)" fill="url(#linear-gradient)"/>
+    <path id="Path_666" data-name="Path 666" d="M181.38,86.694,93.484,1.44a4.781,4.781,0,0,0-6.79,0L1.44,89.335a4.781,4.781,0,0,0,0,6.79l87.9,85.255a5.618,5.618,0,0,0,3.4,1.509,4.1,4.1,0,0,0,3.4-1.509l85.255-87.9a5.618,5.618,0,0,0,1.509-3.4A3.677,3.677,0,0,0,181.38,86.694ZM92.73,171.572,11.248,92.73,90.089,11.248l81.482,78.842Z" transform="translate(258.111 25.68)" fill="url(#linear-gradient)"/>
+    <path id="Path_667" data-name="Path 667" d="M181.38,86.694,93.484,1.44a4.781,4.781,0,0,0-6.79,0L1.44,89.335a4.781,4.781,0,0,0,0,6.79l87.9,85.255a5.618,5.618,0,0,0,3.4,1.509,4.1,4.1,0,0,0,3.4-1.509l85.255-87.9a5.618,5.618,0,0,0,1.509-3.4A3.677,3.677,0,0,0,181.38,86.694ZM92.73,171.572,11.248,92.73,90.089,11.248l81.482,78.842Z" transform="translate(258.111 25.68)" fill="url(#linear-gradient)"/>
+    <path id="Path_668" data-name="Path 668" d="M181.38,86.694,93.484,1.44a4.781,4.781,0,0,0-6.79,0L1.44,89.335a4.781,4.781,0,0,0,0,6.79l87.9,85.255a5.618,5.618,0,0,0,3.4,1.509,4.1,4.1,0,0,0,3.4-1.509l85.255-87.9a5.618,5.618,0,0,0,1.509-3.4A3.677,3.677,0,0,0,181.38,86.694ZM92.73,171.572,11.248,92.73,90.089,11.248l81.482,78.842Z" transform="translate(481.111 25.68)" fill="url(#linear-gradient)"/>
+    <path id="Path_669" data-name="Path 669" d="M181.38,86.694,93.484,1.44a4.781,4.781,0,0,0-6.79,0L1.44,89.335a4.781,4.781,0,0,0,0,6.79l87.9,85.255a5.618,5.618,0,0,0,3.4,1.509,4.1,4.1,0,0,0,3.4-1.509l85.255-87.9a5.618,5.618,0,0,0,1.509-3.4A3.677,3.677,0,0,0,181.38,86.694ZM92.73,171.572,11.248,92.73,90.089,11.248l81.482,78.842Z" transform="translate(481.111 25.68)" fill="url(#linear-gradient)"/>
+    <path id="Path_670" data-name="Path 670" d="M181.38,86.694,93.484,1.44a4.781,4.781,0,0,0-6.79,0L1.44,89.335a4.781,4.781,0,0,0,0,6.79l87.9,85.255a5.618,5.618,0,0,0,3.4,1.509,4.1,4.1,0,0,0,3.4-1.509l85.255-87.9a5.618,5.618,0,0,0,1.509-3.4A3.677,3.677,0,0,0,181.38,86.694ZM92.73,171.572,11.248,92.73,90.089,11.248l81.482,78.842Z" transform="translate(704.111 16.68)" fill="url(#linear-gradient)"/>
+    <path id="Path_671" data-name="Path 671" d="M181.38,86.694,93.484,1.44a4.781,4.781,0,0,0-6.79,0L1.44,89.335a4.781,4.781,0,0,0,0,6.79l87.9,85.255a5.618,5.618,0,0,0,3.4,1.509,4.1,4.1,0,0,0,3.4-1.509l85.255-87.9a5.618,5.618,0,0,0,1.509-3.4A3.677,3.677,0,0,0,181.38,86.694ZM92.73,171.572,11.248,92.73,90.089,11.248l81.482,78.842Z" transform="translate(704.111 16.68)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Already_have_an_account_)">
+      <text id="Already_have_an_account_5" data-name="Already have an account?" transform="translate(127 107)" fill="#09a8b2" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="-22.219" y="0">2022</tspan><tspan x="-13.597" y="35">Q1</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Already_have_an_account_2)">
+      <text id="Already_have_an_account_6" data-name="Already have an account?" transform="translate(350 107)" fill="#09a8b2" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="-22.219" y="0">2022</tspan><tspan x="-13.597" y="35">Q2</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Already_have_an_account_3)">
+      <text id="Already_have_an_account_7" data-name="Already have an account?" transform="translate(573 102)" fill="#09a8b2" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="-22.219" y="0">2022</tspan><tspan x="-13.597" y="35">Q4</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Already_have_an_account_4)">
+      <text id="Already_have_an_account_8" data-name="Already have an account?" transform="translate(796 102)" fill="#09a8b2" font-size="18" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="-22.219" y="0">2023</tspan><tspan x="-13.597" y="35">Q1</tspan></text>
+    </g>
+    <text id="Launching_TRACTIVE_Website_Launching_TRACTIVE_Rewards_App_Develop_TRACTIVE_Smart_Contract_Launch_the_Social_Media_channels" data-name="Launching TRACTIVE Website
+Launching TRACTIVE Rewards App
+Develop TRACTIVE Smart Contract
+Launch the Social Media channels" transform="translate(24 224)" fill="#fff" font-size="14" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="13">Launching TRACTIVE Website</tspan><tspan x="0" y="29">Launching TRACTIVE Rewards App</tspan><tspan x="0" y="45">Develop TRACTIVE Smart Contract</tspan><tspan x="0" y="61">Launch the Social Media channels</tspan></text>
+    <text id="Launching_TRACTIVE_Pre-sale_Got_listed_on_Pancakeswap_Got_listed_on_CoinMarketCap_Build_TRACTIVE_APP_Community" data-name="Launching TRACTIVE Pre-sale
+Got listed on Pancakeswap
+Got listed on CoinMarketCap
+Build TRACTIVE APP Community" transform="translate(282 224)" fill="#fff" font-size="14" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="13">Launching TRACTIVE Pre-sale</tspan><tspan x="0" y="29">Got listed on Pancakeswap</tspan><tspan x="0" y="45">Got listed on CoinMarketCap</tspan><tspan x="0" y="61">Build TRACTIVE APP Community</tspan></text>
+    <text id="Launching_built-in_TRACTIVE_Crypto_Wallet_" data-name="Launching built-in
+TRACTIVE Crypto Wallet
+" transform="translate(508 224)" fill="#fff" font-size="14" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="13">Launching built-in</tspan><tspan x="0" y="29">TRACTIVE Crypto Wallet</tspan><tspan x="0" y="45"></tspan></text>
+    <text id="Launching_TRACTIVE_Hybrid_Marketplace_NFT_Offers_and_services_from_Affiliate_Partners_" data-name="Launching TRACTIVE 
+Hybrid Marketplace
+(NFT + Offers and services from 
+Affiliate Partners) " transform="translate(714 224)" fill="#fff" font-size="14" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="13">Launching TRACTIVE </tspan><tspan x="0" y="29">Hybrid Marketplace</tspan><tspan x="0" y="45">(NFT + Offers and services from </tspan><tspan x="0" y="61">Affiliate Partners) </tspan></text>
+  </g>
+</svg>
