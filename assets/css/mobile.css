@@ -803,6 +803,9 @@
         align-items: center;
         margin-left: 23%;
     }
+    .banner-home-icon {
+        margin-top: 20%;
+    }
     .headder-fixed {
         position: fixed;
         top: 0;
