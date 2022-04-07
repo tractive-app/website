@@ -181,7 +181,7 @@ body{
 /*slider-section*/
 .slider-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     padding-top: 70px;
     padding-bottom: 93px;
     overflow: hidden;
@@ -216,7 +216,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 /*information-main-section*/
 .informationmain-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     padding-top:90px;
     padding-bottom:120px;
     position: relative;
@@ -252,7 +252,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 /*Effective-section*/
 .Effective-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     padding: 120px 0;
     overflow: hidden;
 }
@@ -321,13 +321,13 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 /*Cyber-Security-section*/
 .Cyber-Security-con{
     background: rgb(0,0,0);
-    background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+    background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     padding: 120px 0;
     overflow: hidden;
 }
 .Cyber-Security-left-card-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     padding: 38px 0 38px 0;
     border-radius: 15px;
     border: 1px solid transparent;
@@ -382,14 +382,14 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 }
 .service-main-left-top-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
 }
 .service-main-right-top-con{
     padding-left: 20px;
 }
 .service-main-right-top-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
 }
 .service-main-left-con{
     padding: 120px 0;
@@ -575,7 +575,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 /*Pricing-con*/
 .Pricing-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     height: 100%;
     padding: 120px 0;
     position: relative;
@@ -632,7 +632,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 /*blog-post-con*/
 .blog-post-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     padding-bottom: 174px;
     overflow: hidden;
 }
@@ -689,7 +689,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 /*get-start-con*/
 .get-start-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     padding: 120px 0;
 }
 .get-start-title {
@@ -705,7 +705,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 /*form-main-con*/
 .form-main-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     padding: 120px 0;
     overflow: hidden;
 }
@@ -755,7 +755,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
 /*weight-footer-main-con*/
 .weight-footer-main-con{
     background: rgb(0,0,0);
-background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba(9,168,178,1) 100%);
+background: linear-gradient(180deg, #000000 74%, #022022 96%, #09a8b2 100%);
     overflow: hidden;
 }
 .weight-footer-item-con{
