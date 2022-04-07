@@ -47,7 +47,11 @@ Body copy:     'Roboto', sans-serif;
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barlow&family=Oswald:wght@500&family=Roboto&display=swap');
 body{
-    font-family: 'Roboto', 'sans-serif', 'Felona st SC';
+    font-family: 'Roboto', 'sans-serif' ;
+     @font-face {
+        font-family: 'Felona st SC';
+        src: url("/assets/fonts/FelonastSC-Medium.ttf") format("opentype");
+    }
 }
 *{
     margin: 0;
