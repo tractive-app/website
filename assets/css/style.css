@@ -46,13 +46,13 @@ Body copy:     'Roboto', sans-serif;
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barlow&family=Oswald:wght@500&family=Roboto&display=swap');
+@font-face {
+    font-family: 'myFont';
+    src: url("../fonts/FelonastSC-Medium.woff");
+    src: url("../fonts/FelonastSC-Medium.ttf");
+}
 body{
     font-family: 'Roboto', 'sans-serif' ;
-     @font-face {
-        font-family: 'Felona st SC';
-         src: url("/assets/fonts/FelonastSC-Medium.ttf");
-         src: url("/assets/fonts/FelonastSC-Medium.ttf") format('truetype');
-    }
 }
 *{
     margin: 0;
@@ -141,7 +141,7 @@ body{
     box-shadow: 0 0 0 1px inset #000000 !important;
 }
 .banner-content {
-    font-family: 'Felona st SC';
+    font-family: 'myFont';
     color: #c1cbf3;
 }
 
@@ -193,7 +193,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     border-radius: 15px;
 }
 .slider-heading {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     margin-bottom: 40px;
 }
 .partner-box:hover{
@@ -234,7 +234,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     margin-bottom: 18px;
 }
 .informationmain-right-heading {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     margin-bottom: 14px;
 }
 .informationmain-right-content p{
@@ -299,7 +299,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     border-color: var(--accent);
 }
 .Effective-sec-heading {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     margin-bottom: 18px;
 }
 .Effective-sec-item-title h4,
@@ -361,7 +361,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     margin-bottom: 16px;
 }
 .Cyber-Security-right-heading-con {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     line-height: 62px;
     margin-bottom: 18px;
 }
@@ -407,7 +407,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     margin-left: 25%;
 }
 .service-main-left-con {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     line-height: 60px;
     margin-bottom: 20px;
 }
@@ -429,7 +429,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     color: var(--primary--color);
 }
 .service-left-con {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     line-height: 60px;
     margin-bottom: 20px;
 }
@@ -456,7 +456,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     font-size: 14px;
 }
 .service-left-con {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     font-size: 18.5px;
     margin-bottom: 17px;
 }
@@ -591,7 +591,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     border-color: var(--accent);
 }
 .Pricing-title {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     margin-bottom: 40px;
 }
 .Pricing-box-link a{
@@ -693,7 +693,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     padding: 120px 0;
 }
 .get-start-title {
-    font-family: 'Felona st SC';
+    font-family: 'myFont';
     padding: 0 150px;
     margin-bottom: 30px;
 }
@@ -710,7 +710,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 74%, rgba(2,32,34,1) 96%, rgba
     overflow: hidden;
 }
 .form-title-con {
-    font-family: Felona st SC;
+    font-family: 'myFont';
     margin-bottom: 44px;
 }
 .form-inner-con input,
