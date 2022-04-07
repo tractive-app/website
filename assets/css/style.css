@@ -50,7 +50,8 @@ body{
     font-family: 'Roboto', 'sans-serif' ;
      @font-face {
         font-family: 'Felona st SC';
-        src: url("/assets/fonts/FelonastSC-Medium.ttf") format("opentype");
+         src: url("/assets/fonts/FelonastSC-Medium.ttf");
+         src: url("/assets/fonts/FelonastSC-Medium.ttf") format('truetype');
     }
 }
 *{
