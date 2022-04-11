@@ -151,7 +151,7 @@
         transform-origin: 24% 2%;
     }
     .navbar-collapse{
-        background: var(--light-blue-color);
+        background-color: #000  ;
         padding:8px 0;
         min-width: 35% !important;
         float: right;
